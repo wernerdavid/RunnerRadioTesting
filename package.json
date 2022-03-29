@@ -10,15 +10,25 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-community/slider": "^4.1.12",
+    "date-fns": "^2.28.0",
     "expo": "~44.0.0",
     "expo-status-bar": "~1.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
+    "react-iframe": "^1.8.0",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-audio-streamer": "^0.0.9",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-sound-player": "^0.11.3",
+    "react-native-track-player": "^2.1.2",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "0.17.1",
+    "react-native-webview": "11.15.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "@types/react-native-vector-icons": "^6.4.10"
   },
   "private": true
 }
